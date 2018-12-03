@@ -26,6 +26,7 @@ header.startup h1 {
   line-height: 3.2;
 
   font-size: 2rem; 
+  margin-bottom: 240px;
 }
 
 .btn {
@@ -56,3 +57,4 @@ header.startup h1 {
     font-family: 'Merriweather', serif;
   }
   
+ 
